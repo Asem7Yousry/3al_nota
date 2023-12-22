@@ -1,0 +1,7 @@
+what I need from the project :-
+
+1- enter the orders I bought with its quantity and price 
+2- entered value is saved with its date and time (automaticlly) in json file 
+3- search in history of orders about specific order / orders by its name or date or between 2 dates
+4- deleate order from history by name or date  
+
